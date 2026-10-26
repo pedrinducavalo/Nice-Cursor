@@ -1,4 +1,4 @@
-# nice-cursor
+# Nice Cursor
 
 A lightweight custom cursor library for HaxeFlixel and OpenFL games. It provides
 several built-in cursor styles and optional HaxeUI support.
@@ -13,8 +13,12 @@ Install the library with Haxelib:
 haxelib git nice-cursor https://github.com/pedrinducavalo/Nice-Cursor.git
 ```
 
-Then add `-lib nice-cursor` to your HXML build file, or configure the library
-using your project's build setup.
+Then include the library in your HaxeFlixel project's `Project.xml` or equivalent
+build configuration file:
+
+```xml
+<haxelib name="nice-cursor" />
+```
 
 ## Usage
 
