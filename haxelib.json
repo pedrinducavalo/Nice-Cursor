@@ -1,0 +1,14 @@
+{
+    "name": "nice-cursor",
+    "url": "https://github.com/pedrinducavalo/nice-cursor",
+    "license": "MIT",
+    "tags": ["flixel", "haxeflixel", "openfl", "cursor", "mouse", "pointer", "ui", "input", "fnf", "custom-cursor"],
+    "description": "A lightweight and simple custom cursor library for HaxeFlixel and OpenFL games.",
+    "version": "1.0.0",
+    "releasenote": "Initial release of nice-cursor.",
+    "author": "dre",
+    "contributors": ["dre"],
+    "dependencies": {
+        "flixel": ""
+    }
+}

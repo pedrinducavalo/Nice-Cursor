@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <haxedef name="nice_cursor" /> <!-- Flag de compilação para verificar de essa haxelib está incluída no projeto-->
+    <assets path="assets" rename="assets/nice-cursor" />
+</project>
