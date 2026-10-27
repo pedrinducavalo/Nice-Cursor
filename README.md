@@ -10,7 +10,7 @@ several built-in cursor styles and optional HaxeUI support.
 Install the library with Haxelib:
 
 ```sh
-haxelib git nice-cursor https://github.com/pedrinducavalo/Nice-Cursor.git
+haxelib install nice-cursor
 ```
 
 Then include the library in your HaxeFlixel project's `Project.xml` or equivalent
