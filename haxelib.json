@@ -1,11 +1,11 @@
 {
     "name": "nice-cursor",
-    "url": "https://github.com/pedrinducavalo/nice-cursor",
+    "url": "https://github.com/pedrinducavalo/Nice-Cursor",
     "license": "MIT",
     "tags": ["flixel", "haxeflixel", "openfl", "cursor", "mouse", "pointer", "ui", "input", "fnf", "custom-cursor"],
     "description": "A lightweight and simple custom cursor library for HaxeFlixel and OpenFL games.",
-    "version": "1.0.0",
-    "releasenote": "Initial release of nice-cursor.",
+    "version": "1.0.1",
+    "releasenote": "The library can now be installed using haxelib install nice-cursor",
     "author": "dre",
     "contributors": ["dre"],
     "dependencies": {
